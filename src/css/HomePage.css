@@ -1,0 +1,29 @@
+/* body  */
+.homePage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px;
+}
+
+.homeTitle {
+    color: #548CFF;
+    font-size: 70px;
+}
+/* buttons */
+.addButton, .viewButton {
+    font-size: 20px;
+    margin: 50px;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: #548CFF;
+    color: #CFFFDC;
+}
+.addButton:hover, .viewButton:hover {
+    cursor: pointer;
+    color:#548CFF ;
+    background-color: #93FFD8 ;
+}
+
+

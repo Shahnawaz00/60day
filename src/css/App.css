@@ -1,0 +1,16 @@
+/* font  */
+@import url("https://fonts.googleapis.com/css2?family=Nova+Mono&family=Roboto&display=swap");
+/* css components  */
+@import "HomePage.css";
+@import "Add.css";
+@import "View.css";
+
+/* global styles  */
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  background-color: #CFFFDC;
+}

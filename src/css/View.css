@@ -1,0 +1,50 @@
+/* top section  */
+
+.viewTopDiv {
+    display: flex;
+    justify-content: center;
+}
+
+.viewTitle {
+    display: flex;
+    justify-content: center;
+    margin: 40px 0;
+    color: #548CFF;
+}
+
+/* buttons  */
+
+.homeLink2 , .addLink {
+    margin: 50px 100px;
+    color: #7900FF;
+    text-decoration: none;
+    font-size: 20px;
+}
+ .homeLink2:hover , .addLink:hover {
+    color: #1dad79;
+}
+
+
+/* main section  */
+
+.wrapInfo {
+    display: flex;
+    flex-wrap: wrap;
+}
+.eachDay {
+    background-color: #548CFF;
+    margin: 20px;
+    padding: 20px 30px;
+    border-radius: 10px;
+    border: none;
+}
+
+
+
+.day {
+    color: #93FFD8;
+}
+.description {
+    color: #CFFFDC;
+    margin: 10px 0;
+}

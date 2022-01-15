@@ -1,0 +1,55 @@
+/* top section  */
+.addTopDiv {
+   display: flex;
+   justify-content: space-between;
+}
+/* links */
+.homeLink , .viewLink {
+    margin: 20px 90px;
+    color: #7900FF;
+    text-decoration: none;
+}
+.homeLink:hover , .viewLink:hover {
+    color: #1dad79;
+}
+
+/* add form  */
+
+.addPage {
+    display: flex;
+    flex-direction:column ;
+    align-items: center;
+    margin:30px;
+}
+.addForm {
+    display: flex;
+    flex-direction:column ;
+    align-items: left;
+    margin:30px;
+    color: #548CFF;
+
+}
+.addTitle {
+    color: #548CFF;
+    font-size: 50px;
+}
+.inputDay , .inputDescription {
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 20px ;
+    padding: 10px;
+}
+/* buttons */
+.submitButton {
+    padding: 5px 10px; 
+    border: none;
+    border-radius: 10px;
+    background-color:#548CFF ;
+    color:#CFFFDC ;
+    font-size: 20px;
+    cursor: pointer;
+}
+.submitButton:hover {
+    background-color:#93FFD8 ;
+    color:#548CFF ;
+}

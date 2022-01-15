@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/60day/static/css/main.9650758d.css",
+    "main.js": "/60day/static/js/main.33ec9fea.js",
+    "index.html": "/60day/index.html",
+    "main.9650758d.css.map": "/60day/static/css/main.9650758d.css.map",
+    "main.33ec9fea.js.map": "/60day/static/js/main.33ec9fea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9650758d.css",
+    "static/js/main.33ec9fea.js"
+  ]
+}
